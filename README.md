@@ -1,5 +1,11 @@
 # PARIKSHA-THE-EXAM-CONDUCTING-PORTAL
 
+The demonstration video for this project is here:- https://drive.google.com/file/d/1ShlnGv1n6X57-45u1x3_0noM9kGZ7P-Q/view?usp=sharing
+
+This project will be deployed soon....
+
+DESCRIPTION:-
+
 This is a full-stack application developed using Java and Spring Boot along with hibernate for server side development and Angular for client side development.
 MYSQL database is used to store the data and the same is retrieved and updated as per requests sent from the frontend. The following tables are added to this database:-
 
